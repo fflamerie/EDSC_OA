@@ -6,13 +6,14 @@ Le matériel est composé des éléments suivants.
 
 * Document de cours - [au format .md](https://github.com/fflamerie/EDSC_OA/blob/master/content/2020_EDSC_OA.md) recommandé pour la consultation en ligne et [au format.pdf](https://github.com/fflamerie/EDSC_OA/blob/master/content/2020_EDSC_OA.pdf)
 * Ressources bibliographiques - [au format BibTex](https://github.com/fflamerie/EDSC_OA/blob/master/content/2020_EDSC_OA_biblio.bib) et [au format Zotero RDF](https://github.com/fflamerie/EDSC_OA/blob/master/content/2020_EDSC_OA_biblio.rdf)
-* Enoncé des exercices et corrigé des quizz :warning: disponible après la formation - [md] et [pdf] - Le quizz est conçu pour être utilisé avec des boîtiers de réponse
+* Enoncé des exercices et corrigé des quizz :warning: disponible après la formation - [md]() et [pdf]()
+_Le quizz est conçu pour être utilisé avec des boîtiers réponse._
 * TP1 : politiques de libre accès des éditeurs
    * [Modèle de fiche "éditeur" à compléter .odt](https://github.com/fflamerie/EDSC_OA/blob/master/content/2020_EDSC_OA_TP1_modele.odt)
    * Corrigés : :warning: disponibles après la formation - [Wiley](), [Elsevier](), [ACS](), [RCS]()
 * TP2 : politiques de libre accès des organismes de financement de la recherche
    * [Modèle de fiche "financeur" à compléter .odt](https://github.com/fflamerie/EDSC_OA/blob/master/content/2020_EDSC_OA_TP2_modele.odt)
-   * Corrigés : :warning: disponibles après la formation - [ANR](), [Eunion Européenne H2020]
+   * Corrigés : :warning: disponibles après la formation - [ANR](), [Eunion Européenne H2020]()
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/fr/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/fr/88x31.png" /></a><br />Les supports sont mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/fr/">Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 3.0 France</a>.
 
