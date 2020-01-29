@@ -7,8 +7,6 @@
 
 ## Sommaire
 
-_Les liens ne sont pas cliquables dnas le fichier PDF_
-
 <!-- MDTOC maxdepth:3 firsth1:0 numbering:0 flatten:0 bullets:1 updateOnSave:1 -->
 
 - [Sommaire en image](#sommaire-en-image)
