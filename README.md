@@ -7,7 +7,9 @@ Le matériel est composé des éléments suivants.
 * Document de cours - [au format .md](https://github.com/fflamerie/EDSC_OA/blob/master/content/2020_EDSC_OA.md) recommandé pour la consultation en ligne et [au format.pdf](https://github.com/fflamerie/EDSC_OA/blob/master/content/2020_EDSC_OA.pdf)
 * Ressources bibliographiques - [au format BibTex](https://github.com/fflamerie/EDSC_OA/blob/master/content/2020_EDSC_OA_biblio.bib) et [au format Zotero RDF](https://github.com/fflamerie/EDSC_OA/blob/master/content/2020_EDSC_OA_biblio.rdf)
 * Enoncé des exercices et corrigé des quizz :warning: disponible après la formation - [md]() et [pdf]()
+
 _Le quizz est conçu pour être utilisé avec des boîtiers réponse._
+
 * TP1 : politiques de libre accès des éditeurs
    * [Modèle de fiche "éditeur" à compléter .odt](https://github.com/fflamerie/EDSC_OA/blob/master/content/2020_EDSC_OA_TP1_modele.odt)
    * Corrigés : :warning: disponibles après la formation - [Wiley](), [Elsevier](), [ACS](), [RCS]()
