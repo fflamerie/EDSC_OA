@@ -1,0 +1,1456 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Document rdf:about="https://www.timeshighereducation.com/blog/mega-journals-future-stepping-stone-it-or-leap-abyss">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>Times Higher Education (THE)</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pinfield</foaf:surname>
+                        <foaf:givenName>Stephen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_18770"/>
+
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.timeshighereducation.com/blog/mega-journals-future-stepping-stone-it-or-leap-abyss</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2016-10-13</dc:date>
+        <dcterms:dateSubmitted>2016-10-24 14:29:57</dcterms:dateSubmitted>
+        <dcterms:abstract>Nature’s new kid on the block is now the biggest journal in the world. But while such giants are currently overturning the world of scholarly publishing, their long-term future is unclear, says Stephen Pinfield</dcterms:abstract>
+        <dc:title>Mega-journals: the future, a stepping stone to it or a leap into the abyss?</dc:title>
+        <z:shortTitle>Mega-journals</z:shortTitle>
+    </bib:Document>
+
+    <bib:Document rdf:about="http://osc.universityofcalifornia.edu/2015/12/a-social-networking-site-is-not-an-open-access-repository/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+            <z:Blog>
+                <dc:title>Office of Scholarly Communication - University of California</dc:title>
+            </z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fortney</foaf:surname>
+                        <foaf:givenName>Katie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gonder</foaf:surname>
+                        <foaf:givenName>Justin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_18763"/>
+
+
+
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://osc.universityofcalifornia.edu/2015/12/a-social-networking-site-is-not-an-open-access-repository/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2015-12-01</dc:date>
+        <dcterms:dateSubmitted>2016-04-06 13:07:45</dcterms:dateSubmitted>
+        <dcterms:abstract>“What’s the difference between ResearchGate, Academia.edu, and the institutional repository?”
+
+“I put my papers in ResearchGate, is that enough for the open access policy?
+
+These and similar questions have been been common at open access events over the past couple of years. Authors want to bett</dcterms:abstract>
+        <dc:title>A social networking site is not an open access repository</dc:title>
+    </bib:Document>
+
+    <rdf:Description rdf:about="https://doi.org/10.5281/zenodo.841085">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Creative Commons UK</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3849"/>
+
+
+
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.5281/zenodo.841085</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2017-08-10</dc:date>
+        <dc:description>DOI: 10.5281/zenodo.841086</dc:description>
+        <dcterms:dateSubmitted>2017-09-19 11:23:42</dcterms:dateSubmitted>
+        <z:libraryCatalog>Zenodo</z:libraryCatalog>
+        <dcterms:abstract>This information guide contains questions and responses to common concerns surrounding Open Access, Creative Commons, and the publication of research. It is intended to aid researchers, teachers, librarians, administrators and many others using and encountering the Open Access movement in their work.</dcterms:abstract>
+        <dc:title>Fact Sheet on Creative Commons and Open Science</dc:title>
+    </rdf:Description>
+
+    <bib:Article rdf:about="https://osf.io/3d6xx/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Open Science Framework</dc:title>
+                <dc:identifier>DOI 10.17605/OSF.IO/3D6XX</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marwick</foaf:surname>
+                        <foaf:givenName>Ben</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4054"/>
+        <link:link rdf:resource="#item_4055"/>
+        <link:link rdf:resource="#item_4056"/>
+
+
+
+
+
+
+        <dc:identifier>
+           <dcterms:URI><rdf:value>https://osf.io/3d6xx/</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dc:date>2017-09-27</dc:date>
+        <dc:description>DOI: 10.17605/OSF.IO/3D6XX</dc:description>
+        <dcterms:dateSubmitted>2017-09-28 06:35:27</dcterms:dateSubmitted>
+        <z:libraryCatalog>DataCite</z:libraryCatalog>
+        <dcterms:abstract>Description: In archaeology, we are accustomed to investing great effort into collecting data from fieldwork, museum collections, and other sources, followed by detailed description, rigorous analysis, and in many cases ending with publication of our findings in short, highly concentrated reports or journal articles. Very often, these publications are all that is visible of this lengthy process, and even then, most of our journal articles are only accessible to scholars at institutions paying subscription fees to the journal publishers. While this traditional model of the archaeological research process has long been effective at generating new knowledge about our past, it is increasingly at odds with current norms of practice in other sciences. Often described as ‘open science’, these new norms include data stewardship instead of data ownership, transparency in the analysis process instead of secrecy, and public involvement instead of exclusion. While the concept of open science is not new in archaeology (e.g., see Lake 2012 and other papers in that volume), a less transparent model often prevails, unfortunately. We believe that there is much to be gained, both for individual researchers and for the discipline, from broader application of open science practices. In this article, we very briefly describe these practices and their benefits to researchers. We introduce the Society of American Archaeology’s Open Science Interest Group (OSIG) as a community to help archaeologists engage in and benefit from open science practices, and describe how it will facilitate the adoption of open science in archaeology.</dcterms:abstract>
+        <dc:title>Open Science in Archaeology</dc:title>
+    </bib:Article>
+
+
+
+    <bib:ConferenceProceedings rdf:about="https://figshare.com/articles/201710_ORCID_Enter_Once_Reuse_Often_What_does_this_mean_to_research_institutions_WEBINAR/5544460">
+        <z:itemType>presentation</z:itemType>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Paglione</foaf:surname>
+                        <foaf:givenName>Laura</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Olson</foaf:surname>
+                        <foaf:givenName>Eric</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Laurel</foaf:surname>
+                        <foaf:givenName>Haak</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Buys</foaf:surname>
+                        <foaf:givenName>Matthew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <link:link rdf:resource="#item_8821"/>
+        <link:link rdf:resource="#item_9412"/>
+
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://figshare.com/articles/201710_ORCID_Enter_Once_Reuse_Often_What_does_this_mean_to_research_institutions_WEBINAR/5544460</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>October 27, 2017</dc:date>
+        <dc:description>DOI: 10.23640/07243.5544460.v1</dc:description>
+        <dcterms:dateSubmitted>2018-01-10 10:42:23</dcterms:dateSubmitted>
+        <z:meetingName>Webinar</z:meetingName>
+        <dcterms:abstract>In October 2017, ORCID provided a group of webinars for research institutions. WEBINAR DESCRIPTION: Research is conducted and communicated at organizations like yours - universities and private institutes, government and commercial laboratories, and other research institutions. Globally you employ and teach millions of individuals who are engaged in innovative research, teaching, and scholarship. You manage research information in many different systems. This makes it hard to keep track of your researchers’ activities and outputs within your own institution. And it’s even more challenging once you take into account the many grant application, manuscript submission, research profile, and other systems that they are interacting with outside of your institution. On top of that, researchers move around - after graduation, on sabbatical, on secondment, or to new positions.How does ORCID help with these challenges? This webinar was designed to help answer these questions.</dcterms:abstract>
+        <dc:title>Enter Once | Reuse Often: What does this mean to research institutions?</dc:title>
+        <z:shortTitle>201710 ORCID</z:shortTitle>
+    </bib:ConferenceProceedings>
+
+
+    <bib:Document rdf:about="https://twitter.com/astacus/status/951020844251340800">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>@astacus</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Beynon</foaf:surname>
+                        <foaf:givenName>Rob</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_8838"/>
+
+
+
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://twitter.com/astacus/status/951020844251340800</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>10/01/2018</dc:date>
+        <dcterms:dateSubmitted>2018-01-15 10:19:27</dcterms:dateSubmitted>
+        <z:type>Tweet</z:type>
+        <z:language>en</z:language>
+        <dc:title>OK Molecular and Cellular Proteomics @molcellprot @ASBMB I'm calling you out publicly. I just tried to access one of my own papers, for which we paid for GOLD OA, and it is paywalled. Poor show. I hope you will refund any poor sap who paid for access. Please fix this immediately.pic.twitter.com/dGh9MYpYVS</dc:title>
+    </bib:Document>
+
+    <bib:Document rdf:about="https://scholarlykitchen.sspnet.org/2018/01/18/countering-uber-brands-case-megajournal/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>The Scholarly Kitchen</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mudditt</foaf:surname>
+                        <foaf:givenName>Alison</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+
+
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scholarlykitchen.sspnet.org/2018/01/18/countering-uber-brands-case-megajournal/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2018-01-18</dc:date>
+        <dcterms:dateSubmitted>2018-01-18 16:15:41</dcterms:dateSubmitted>
+        <z:language>en-US</z:language>
+        <dcterms:abstract>Many column inches – right here in the Scholarly Kitchen as well as elsewhere – have been expended on the megajournal and its successes and (perhaps more often), failures. But how might megajournals support the very real need for action to improve the transparency, reproducibility and efficiency of scientific research?</dcterms:abstract>
+        <dc:title>Countering the Über-Brands: The Case for the Megajournal</dc:title>
+        <z:shortTitle>Countering the Über-Brands</z:shortTitle>
+    </bib:Document>
+    <bib:Document rdf:about="https://elifesciences.org/inside-elife/b6365b76/setting-a-fee-for-publication">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>eLife</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Patterson</foaf:surname>
+                        <foaf:givenName>Mark</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McLennan</foaf:surname>
+                        <foaf:givenName>Jennifer</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9128"/>
+        <link:link rdf:resource="#item_9127"/>
+
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://elifesciences.org/inside-elife/b6365b76/setting-a-fee-for-publication</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>29/09/2016</dc:date>
+        <dcterms:dateSubmitted>2018-01-24 09:38:05</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>eLife announces a fee for publication of $2,500 to take effect on January 1, 2017.</dcterms:abstract>
+        <dc:title>Setting a fee for publication</dc:title>
+    </bib:Document>
+
+
+    <bib:Document rdf:about="https://www.ccsd.cnrs.fr/2016/10/vos-depots-dans-hal-ce-qui-change-avec-la-loi-pour-une-republique-numerique/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>CCSD</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Magron</foaf:surname>
+                        <foaf:givenName>Agnès</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_18758"/>
+
+
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ccsd.cnrs.fr/2016/10/vos-depots-dans-hal-ce-qui-change-avec-la-loi-pour-une-republique-numerique/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2016/10/19</dc:date>
+        <dcterms:dateSubmitted>2018-01-25 13:15:20</dcterms:dateSubmitted>
+        <dc:title>Vos dépôts dans HAL : ce qui change avec la loi pour une République Numérique</dc:title>
+    </bib:Document>
+
+    <bib:Document rdf:about="http://people.uleth.ca/~daniel.odonnell/Blog/using-zenodo-as-a-personal-repository">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Daniel Paul O'Donnell Blog</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>O'Donnell</foaf:surname>
+                        <foaf:givenName>Daniel Paul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+
+
+
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://people.uleth.ca/~daniel.odonnell/Blog/using-zenodo-as-a-personal-repository</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>30/03/2018</dc:date>
+        <dcterms:dateSubmitted>2018-04-03 06:42:34</dcterms:dateSubmitted>
+        <dc:title>Daniel Paul O'Donnell: Using Zenodo as a personal repository</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="https://twitter.com/LizzieGadd/status/986932905694949376">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>@LizzieGadd</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gadd</foaf:surname>
+                        <foaf:givenName>Elizabeth</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_10820"/>
+
+
+
+
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://twitter.com/LizzieGadd/status/986932905694949376</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>19/04/2018</dc:date>
+        <dcterms:dateSubmitted>2018-04-20 06:36:35</dcterms:dateSubmitted>
+        <z:type>Tweet</z:type>
+        <z:language>en</z:language>
+        <dc:title>Dear @SpringerOpen ,We have just published a paper (https://bit.ly/2EZGyvL ) with you under a CC-BY licence, but when you click on the article's Reprints &amp; Permissions link it takes you to a page that says the article is under a CC-BY-NC-ND licence.  Please can you correct this?pic.twitter.com/rdWVsMWSoz</dc:title>
+        <z:shortTitle>Dear @SpringerOpen ,We have just published a paper (https</z:shortTitle>
+    </bib:Document>
+
+    <bib:Document rdf:about="https://ec.europa.eu/info/research-and-innovation/strategy/goals-research-and-innovation-policy/open-science/open-science-monitor/trends-open-access-publications_en">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>European Commission</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>European Commission</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_34944"/>
+
+
+
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ec.europa.eu/info/research-and-innovation/strategy/goals-research-and-innovation-policy/open-science/open-science-monitor/trends-open-access-publications_en</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Citation Key Alias: trendsforopenaccesstopublications_europeancommission</dc:description>
+        <dcterms:dateSubmitted>2020-01-15</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>Data and case studies covering access to scientific publications. Bibliometric data as well as data on the policies of journals and funders are...</dcterms:abstract>
+        <dc:title>Trends for open access to publications</dc:title>
+    </bib:Document>
+
+    <bib:Illustration rdf:about="http://asapbio.org/licensing-faq/licensing-diagram-2018-10-04">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>ASAPbio</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <link:link rdf:resource="#item_13874"/>
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://asapbio.org/licensing-faq/licensing-diagram-2018-10-04</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2018/10/04</dc:date>
+        <dcterms:dateSubmitted>2018-10-05 13:43:26</dcterms:dateSubmitted>
+        <z:language>en-US</z:language>
+        <dc:title>Licensing diagram</dc:title>
+    </bib:Illustration>
+
+    <bib:Illustration rdf:about="https://www.joeran.de/infographic-on-creative-commons-licences/">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Klute</foaf:surname>
+                        <foaf:givenName>Barbara</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Muuß-Merholz</foaf:surname>
+                        <foaf:givenName>Jöran</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <link:link rdf:resource="#item_13977"/>
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.joeran.de/infographic-on-creative-commons-licences/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2018-10-21</dc:date>
+        <dcterms:dateSubmitted>2018-10-23 08:48:05</dcterms:dateSubmitted>
+        <z:language>de-DE</z:language>
+        <dcterms:abstract>This infographic on Creative Commons licences illustrates your choices when you want to publish your own work under a CC license. Start with the locomotive on the left and make your choices at each switch. The graphic itself is published under CC BY SA 3.0 and can … Weiterlesen</dcterms:abstract>
+        <dc:title>&quot;Choo-Choo-Choose your license!&quot; Infographic on Creative Commons licences</dc:title>
+    </bib:Illustration>
+
+    <bib:Document rdf:about="https://openaccessbutton.org/direct2aam">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Open Access Button</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Open Access Button</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+
+
+
+
+
+
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://openaccessbutton.org/direct2aam</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>21/11/2018</dc:date>
+        <dcterms:dateSubmitted>2018-11-23 07:14:29</dcterms:dateSubmitted>
+        <dc:title>Direct2AAM: Helping Authors Find Author Accepted Manuscripts</dc:title>
+    </bib:Document>
+    <bib:Book rdf:about="https://book.fosteropenscience.eu/">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Hannover</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>FOSTER Plus Consortium</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bezjak</foaf:surname>
+                        <foaf:givenName>Sonja</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clyburne-Sherin</foaf:surname>
+                        <foaf:givenName>April</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Conzett</foaf:surname>
+                        <foaf:givenName>Philipp</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fernandes</foaf:surname>
+                        <foaf:givenName>Pedro L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Görögh</foaf:surname>
+                        <foaf:givenName>Edit</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Helbig</foaf:surname>
+                        <foaf:givenName>Kerstin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kramer</foaf:surname>
+                        <foaf:givenName>Bianca</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Labastida</foaf:surname>
+                        <foaf:givenName>Ignasi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Niemeyer</foaf:surname>
+                        <foaf:givenName>Kyle</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Psomopoulos</foaf:surname>
+                        <foaf:givenName>Fotis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ross-Hellauer</foaf:surname>
+                        <foaf:givenName>Tony</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schneider</foaf:surname>
+                        <foaf:givenName>René</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tennant</foaf:surname>
+                        <foaf:givenName>Jon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Verbakel</foaf:surname>
+                        <foaf:givenName>Ellen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brinken</foaf:surname>
+                        <foaf:givenName>Helene</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Heller</foaf:surname>
+                        <foaf:givenName>Lambert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_34664"/>
+        <link:link rdf:resource="#item_34665"/>
+        <link:link rdf:resource="#item_34663"/>
+
+
+
+
+
+
+
+
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://book.fosteropenscience.eu/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2018</dc:date>
+        <dcterms:dateSubmitted>2018-12-19 14:25:52</dcterms:dateSubmitted>
+        <dc:title>Open Science Training Handbook</dc:title>
+    </bib:Book>
+
+
+
+    <bib:Document rdf:about="https://www.budapestopenaccessinitiative.org/read">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>Budapest Open Access Initiative</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chan</foaf:surname>
+                        <foaf:givenName>Leslie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cuplinskas</foaf:surname>
+                        <foaf:givenName>Darius</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eisen</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Friend</foaf:surname>
+                        <foaf:givenName>Fred</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Genova</foaf:surname>
+                        <foaf:givenName>Yana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guédon</foaf:surname>
+                        <foaf:givenName>Jean-Claude</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hagemann</foaf:surname>
+                        <foaf:givenName>Melissa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Harnad</foaf:surname>
+                        <foaf:givenName>Stevan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Johnson</foaf:surname>
+                        <foaf:givenName>Rick</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kupryte</foaf:surname>
+                        <foaf:givenName>Rima</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Manna</foaf:surname>
+                        <foaf:givenName>Manfredi La</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rév</foaf:surname>
+                        <foaf:givenName>István</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Segbert</foaf:surname>
+                        <foaf:givenName>Monika</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Souza</foaf:surname>
+                        <foaf:givenName>Sidnei de</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Suber</foaf:surname>
+                        <foaf:givenName>Peter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Velterop</foaf:surname>
+                        <foaf:givenName>Jan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+
+
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.budapestopenaccessinitiative.org/read</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>14/02/2002</dc:date>
+        <dcterms:dateSubmitted>2019-01-08 15:09:49</dcterms:dateSubmitted>
+        <dc:title>Read the Budapest Open Access Initiative</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="http://blogs.lse.ac.uk/impactofsocialsciences/2019/01/11/who-are-you-writing-for-the-role-of-community-membership-on-authors-decisions-to-publish-in-open-access-mega-journals/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>LSE Impact Blog</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fry</foaf:surname>
+                        <foaf:givenName>Jenny</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wakeling</foaf:surname>
+                        <foaf:givenName>Simon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_18845"/>
+
+
+
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://blogs.lse.ac.uk/impactofsocialsciences/2019/01/11/who-are-you-writing-for-the-role-of-community-membership-on-authors-decisions-to-publish-in-open-access-mega-journals/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2019-01-11</dc:date>
+        <dcterms:dateSubmitted>2019-01-11 14:31:41</dcterms:dateSubmitted>
+        <z:language>en-US</z:language>
+        <dcterms:abstract>Open Access mega-journals have in some academic disciplines become a key channel for communicating research. In others, however, they remain unknown. Drawing on evidence from a series of focus grou…</dcterms:abstract>
+        <dc:title>Who are you writing for? The role of community membership on authors’ decisions to publish in open access mega-journals</dc:title>
+        <z:shortTitle>Who are you writing for?</z:shortTitle>
+    </bib:Document>
+
+    <bib:Article rdf:about="https://cen.acs.org/acs-news/publishing/Chemistry-preprints-pick-steam/97/i3">
+        <z:itemType>magazineArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Periodical>
+                <prism:volume>97</prism:volume>
+                <prism:number>3</prism:number>
+                <dc:title>Chemical &amp; Engineering News</dc:title>
+            </bib:Periodical>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nguyen</foaf:surname>
+                        <foaf:givenName>Tien M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://cen.acs.org/acs-news/publishing/Chemistry-preprints-pick-steam/97/i3</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2019</dc:date>
+        <dcterms:dateSubmitted>2019-12-18 11:31:19</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>A year and a half after chemistry preprint servers debuted, authors and publishers are getting on board</dcterms:abstract>
+        <dc:title>Chemistry preprints pick up steam</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="https://peerj.com/articles/4375">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2167-8359"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Piwowar</foaf:surname>
+                        <foaf:givenName>Heather</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Priem</foaf:surname>
+                        <foaf:givenName>Jason</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Larivière</foaf:surname>
+                        <foaf:givenName>Vincent</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alperin</foaf:surname>
+                        <foaf:givenName>Juan Pablo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Matthias</foaf:surname>
+                        <foaf:givenName>Lisa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Norlander</foaf:surname>
+                        <foaf:givenName>Bree</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Farley</foaf:surname>
+                        <foaf:givenName>Ashley</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>West</foaf:surname>
+                        <foaf:givenName>Jevin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Haustein</foaf:surname>
+                        <foaf:givenName>Stefanie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_34872"/>
+
+
+
+
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://peerj.com/articles/4375</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>e4375</bib:pages>
+        <dc:date>2018-02-13</dc:date>
+        <dcterms:dateSubmitted>2020-01-09 09:37:10</dcterms:dateSubmitted>
+        <z:libraryCatalog>peerj.com</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Despite growing interest in Open Access (OA) to scholarly literature, there is an unmet need for large-scale, up-to-date, and reproducible studies assessing the prevalence and characteristics of OA. We address this need using oaDOI, an open online service that determines OA status for 67 million articles. We use three samples, each of 100,000 articles, to investigate OA in three populations: (1) all journal articles assigned a Crossref DOI, (2) recent journal articles indexed in Web of Science, and (3) articles viewed by users of Unpaywall, an open-source browser extension that lets users find OA articles using oaDOI. We estimate that at least 28% of the scholarly literature is OA (19M in total) and that this proportion is growing, driven particularly by growth in Gold and Hybrid. The most recent year analyzed (2015) also has the highest percentage of OA (45%). Because of this growth, and the fact that readers disproportionately access newer articles, we find that Unpaywall users encounter OA quite frequently: 47% of articles they view are OA. Notably, the most common mechanism for OA is not Gold, Green, or Hybrid OA, but rather an under-discussed category we dub Bronze: articles made free-to-read on the publisher website, without an explicit Open license. We also examine the citation impact of OA articles, corroborating the so-called open-access citation advantage: accounting for age and discipline, OA articles receive 18% more citations than average, an effect driven primarily by Green and Hybrid OA. We encourage further research using the free oaDOI service, as a way to inform OA policy and practice.</dcterms:abstract>
+        <dc:title>The state of OA: a large-scale analysis of the prevalence and impact of Open Access articles</dc:title>
+        <z:shortTitle>The state of OA</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2167-8359">
+        <prism:volume>6</prism:volume>
+        <dc:title>PeerJ</dc:title>
+        <dc:identifier>ISSN 2167-8359</dc:identifier>
+        <dcterms:alternative>PeerJ</dcterms:alternative>
+        <dc:identifier>DOI 10.7717/peerj.4375</dc:identifier>
+    </bib:Journal>
+
+    <bib:ConferenceProceedings rdf:about="https://github.com/fflamerie/pau_ed_2019">
+        <z:itemType>presentation</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Pau</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Flamerie</foaf:surname>
+                        <foaf:givenName>Frédérique</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/fflamerie/pau_ed_2019</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>31/01/2019</dc:date>
+        <z:meetingName>Journées &quot;Information scientifique &amp; technique&quot; - Ecole doctorale des sciences exactes et leurs applications</z:meetingName>
+        <dc:title>How to build your online researcher profile ?</dc:title>
+    </bib:ConferenceProceedings>
+    <bib:Document rdf:about="https://www.fosteropenscience.eu/taxonomy/term/7">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>FOSTER</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>FOSTER Consortium</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_34892"/>
+        <dc:relation rdf:resource="http://oro.open.ac.uk/44719/"/>
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.fosteropenscience.eu/taxonomy/term/7</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-10 13:54:41</dcterms:dateSubmitted>
+        <dc:title>Open Science Taxonomy</dc:title>
+    </bib:Document>
+
+    <rdf:Description rdf:about="http://oro.open.ac.uk/44719/">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:identifier>DOI 10.1145/2809563.2809571</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Graz, Austria</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pontika</foaf:surname>
+                        <foaf:givenName>Nancy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Knoth</foaf:surname>
+                        <foaf:givenName>Petr</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cancellieri</foaf:surname>
+                        <foaf:givenName>Matteo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pearce</foaf:surname>
+                        <foaf:givenName>Samuel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_34942"/>
+        <dc:relation rdf:resource="https://www.fosteropenscience.eu/taxonomy/term/7"/>
+
+
+
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://oro.open.ac.uk/44719/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2015</dc:date>
+        <dcterms:dateSubmitted>2020-01-10 13:58:17</dcterms:dateSubmitted>
+        <z:libraryCatalog>oro.open.ac.uk</z:libraryCatalog>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>iKnow: 15th International Conference on Knowledge Technologies and Data Driven Business</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+        <dcterms:abstract>The term &quot;Open Science&quot; is recently widely used, but it is still unclear to many research stakeholders - funders, policy makers, researchers, administrators, librarians and repository managers - how Open Science can be achieved. FOSTER (Facilitate Open Science Training for European Research) is a European Commission funded project, which is developing an e-learning portal to support the training of a wide range of stakeholders in Open Science and related areas. In 2014 the FOSTER project co-funded 28 training activities in Open Science, which include more than 110 events, while in 2015 the project has supported 24 community training events in 18 countries. In this paper, we describe the FOSTER approach in structuring the Open Science domain for educational purposes, present the functionality of the FOSTER training portal and discuss its use and potential for training the key stakeholders using self-learning and blended-learning methods.</dcterms:abstract>
+        <dc:title>Fostering Open Science to Research using a Taxonomy and an eLearning Portal</dc:title>
+    </rdf:Description>
+
+    <bib:Document rdf:about="https://www.coalition-s.org/addendum-to-the-coalition-s-guidance-on-the-implementation-of-plan-s/principles-and-implementation/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Plan S</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Science Europe</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:relation rdf:resource="https://www.coalition-s.org/rationale-for-the-revisions/"/>
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.coalition-s.org/addendum-to-the-coalition-s-guidance-on-the-implementation-of-plan-s/principles-and-implementation/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2020</dc:date>
+        <dcterms:dateSubmitted>2020-01-15 08:03:35</dcterms:dateSubmitted>
+        <dc:title>Principles and Implementation</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.coalition-s.org/rationale-for-the-revisions/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Plan S</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Science Europe</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:relation rdf:resource="https://www.coalition-s.org/addendum-to-the-coalition-s-guidance-on-the-implementation-of-plan-s/principles-and-implementation/"/>
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.coalition-s.org/rationale-for-the-revisions/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2019</dc:date>
+        <dcterms:dateSubmitted>2020-01-15 08:09:41</dcterms:dateSubmitted>
+        <dc:title>Rationale for the Revisions Made to the Plan S Principles and Implementation Guidance</dc:title>
+    </bib:Document>
+    <bib:Article rdf:about="https://academic.oup.com/chemse/advance-article/doi/10.1093/chemse/bjaa001/5699749">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Chemical Senses</dc:title>
+                <dcterms:alternative>Chem Senses</dcterms:alternative>
+                <dc:identifier>DOI 10.1093/chemse/bjaa001</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moser</foaf:surname>
+                        <foaf:givenName>Ariella Y.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brown</foaf:surname>
+                        <foaf:givenName>Wendy Y.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bizo</foaf:surname>
+                        <foaf:givenName>Lewis A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Andrew</foaf:surname>
+                        <foaf:givenName>Nigel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Taylor</foaf:surname>
+                        <foaf:givenName>Michelle K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/chemse/advance-article/doi/10.1093/chemse/bjaa001/5699749</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2020</dc:date>
+        <dcterms:dateSubmitted>2020-01-15 09:29:26</dcterms:dateSubmitted>
+        <z:libraryCatalog>academic.oup.com</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Abstract.  Detector dogs could be trained to find invasive insect pests at borders before they establish in new areas. However, without access to the live insec</dcterms:abstract>
+        <dc:title>Biosecurity dogs detect live insects after training with odour-proxy training aids: Scent extract and dead specimens</dc:title>
+        <z:shortTitle>Biosecurity dogs detect live insects after training with odour-proxy training aids</z:shortTitle>
+    </bib:Article>
+    <bib:Article rdf:about="http://onlinelibrary.wiley.com/doi/abs/10.1002/adom.201901166">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2195-1071"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kuppe</foaf:surname>
+                        <foaf:givenName>Christian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rusimova</foaf:surname>
+                        <foaf:givenName>Kristina R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ohnoutek</foaf:surname>
+                        <foaf:givenName>Lukas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Slavov</foaf:surname>
+                        <foaf:givenName>Dimitar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Valev</foaf:surname>
+                        <foaf:givenName>Ventsislav K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com/doi/abs/10.1002/adom.201901166</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>© 2019 The Authors. Published by WILEY‐VCH Verlag GmbH &amp; Co. KGaA, Weinheim</dc:rights>
+        <bib:pages>1901166</bib:pages>
+        <dc:date>2020</dc:date>
+        <dcterms:dateSubmitted>2020-01-15 09:52:50</dcterms:dateSubmitted>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Recent advances in nonlinear optics, hot electrons for renewable energy (e.g., solar cells and water-splitting), acousto-optics, nanometalworking, nanorobotics, steam generation, and photothermal cancer therapy are reviewed here. In all these areas, one of the key enabling properties is the ability of metallic nanoparticles to harvest and control light at the subwavelength scale by supporting coherent electronic oscillations, called localized surface plasmon resonances (LSPRs). Various physical properties and potential areas of application emerge depending on the decay mechanism of the LSPR and, especially, depending on the considered timescale. The field of plasmonics has mainly been associated with manipulating electromagnetic near-fields at the nanoscale, where absorption is an obstacle. However, plasmonic absorption leads to a stream of temperature-related phenomena that have only recently attracted significant attention. The goal of this review is to highlight exciting new areas of research (such as nanorobotics, nanometalworking, or acousto-optical techniques) and to survey the most recent progress in more established areas (such as hot electrons, photothermal therapy, and plasmonic steam generation). To set each research area in context, the text is organized around the thermal cycle of the nanoparticles.</dcterms:abstract>
+        <dc:title>“Hot” in Plasmonics: Temperature-Related Concepts and Applications of Metal Nanostructures</dc:title>
+        <z:shortTitle>“Hot” in Plasmonics</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2195-1071">
+        <prism:volume>8</prism:volume>
+        <prism:number>1</prism:number>
+        <dc:title>Advanced Optical Materials</dc:title>
+        <dc:identifier>ISSN 2195-1071</dc:identifier>
+        <dc:identifier>DOI 10.1002/adom.201901166</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://journals.sagepub.com/doi/10.1177/2158244018816717">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>8</prism:volume>
+                <prism:number>4</prism:number>
+                <dc:title>SAGE Open</dc:title>
+                <dc:identifier>DOI 10.1177/2158244018816717</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ross-Hellauer</foaf:surname>
+                        <foaf:givenName>Tony</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schmidt</foaf:surname>
+                        <foaf:givenName>Birgit</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kramer</foaf:surname>
+                        <foaf:givenName>Bianca</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_34938"/>
+
+
+
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.sagepub.com/doi/10.1177/2158244018816717</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1-16</bib:pages>
+        <dc:date>November 28, 2018</dc:date>
+        <dc:coverage>Sage CA: Los Angeles, CA</dc:coverage>
+        <dcterms:dateSubmitted>2020-01-17 09:31:55</dcterms:dateSubmitted>
+        <z:libraryCatalog>journals.sagepub.com</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>As open access (OA) to publications continues to gather momentum, we should continuously question whether it is moving in the right direction. A novel intervent...</dcterms:abstract>
+        <dc:title>Are Funder Open Access Platforms a Good Idea?:</dc:title>
+        <z:shortTitle>Are Funder Open Access Platforms a Good Idea?</z:shortTitle>
+    </bib:Article>
+
+    <bib:Recording rdf:about="https://www.youtube.com/watch?v=WnxqoP-c0ZE">
+        <z:itemType>tvBroadcast</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>France Télévisions</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Poulain</foaf:surname>
+                        <foaf:givenName>Henri</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+
+
+
+
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.youtube.com/watch?v=WnxqoP-c0ZE</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2016</dc:date>
+        <dcterms:dateSubmitted>2020-01-22 12:35:17</dcterms:dateSubmitted>
+        <z:libraryCatalog>YouTube</z:libraryCatalog>
+        <dcterms:abstract>Dans le monde de la recherche scientifique, publier ses travaux est un passage obligé. Cela permet aux chercheuses et chercheurs de faire connaître leur travail mais aussi d'être identifié par leurs pairs et pourquoi pas d'obtenir un poste, à condition d'être publié dans
+les bonnes revues. Sauf que cette mécanique de publication - qui permettait à la base de faire circuler le savoir - est devenue une vraie chasse gardée économique : celle des éditeurs scientifiques. Quelques grands noms comme le neerlandais Elsevier ou le groupe Springer/Nature se partagent un marché juteux et privatisent au passage des travaux scientifiques la plupart du temps financés par des fonds publics.
+
+Avec Marin Dacos, chercheur au CNRS et directeur d'Open Editions : https://is.gd/GaDBDf
+
+Retrouvez toutes les sources de l’épisode 63, “Privés de savoir ?” sur https://wiki.datagueule.tv/ :
+https://is.gd/wikiDTG_63
+
+- Suivez-nous sur PeerTube : https://is.gd/PT_DTG
+- Abonnez-vous sur YouTube : https://is.gd/YT_DTG
+- Devenez fan sur Facebook : https://is.gd/FB_DTG
+- Suivez-nous sur Twitter : https://is.gd/TWT_DTG
+- Suivez-nous sur Instagram : https://is.gd/INSTA_DTG
+- Suivez-nous sur Mastodon : https://is.gd/MASTODON_DTG
+
+Toutes les sources de nos épisodes sont sur https://wiki.datagueule.tv/
+
+Nos différentes saisons :
+- Saison 6 : https://is.gd/DTG_S06
+- Saison 5 : https://is.gd/DGT_S05
+- Saison 4 : https://is.gd/DTG_S04
+- Saison 3 : https://is.gd/DTG_S03
+- Saison 2 : https://is.gd/DTG_S02
+- Saison 1 : https://is.gd/DTG_S01
+
+Coproduit par IRL/Les nouvelles écritures :
+https://www.youtube.com/channel/UCqap...</dcterms:abstract>
+        <prism:number>63</prism:number>
+        <dc:title>Privés de savoir ?</dc:title>
+        <z:shortTitle>Privés de savoir ?</z:shortTitle>
+        <dc:title>#DataGueule</dc:title>
+    </bib:Recording>
+    <bib:Article rdf:about="http://doi.wiley.com/10.1002/ejic.201500257">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:14341948"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rosticher</foaf:surname>
+                        <foaf:givenName>Céline</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Viana</foaf:surname>
+                        <foaf:givenName>Bruno</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Laurent</foaf:surname>
+                        <foaf:givenName>Guillaume</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Le Griel</foaf:surname>
+                        <foaf:givenName>Patrick</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chanéac</foaf:surname>
+                        <foaf:givenName>Corinne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+
+
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://doi.wiley.com/10.1002/ejic.201500257</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>3681-3687</bib:pages>
+        <dc:date>08/2015</dc:date>
+        <dcterms:dateSubmitted>2020-01-22 12:43:44</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Insight into CaMgSi &lt;sub&gt;2&lt;/sub&gt; O &lt;sub&gt;6&lt;/sub&gt; :Eu &lt;sup&gt;2+&lt;/sup&gt; ,Mn &lt;sup&gt;2+&lt;/sup&gt; ,Dy &lt;sup&gt;3+&lt;/sup&gt; Nanoprobes: Influence of Chemical Composition and Crystallinity on Persistent Red Luminescence: Insight into CaMgSi &lt;sub&gt;2&lt;/sub&gt; O &lt;sub&gt;6&lt;/sub&gt; :Eu &lt;sup&gt;2+&lt;/sup&gt; , Mn &lt;sup&gt;2+&lt;/sup&gt; , Dy &lt;sup&gt;3+&lt;/sup&gt; Nanoprobes</dc:title>
+        <z:shortTitle>Insight into CaMgSi &lt;sub&gt;2&lt;/sub&gt; O &lt;sub&gt;6&lt;/sub&gt;</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:14341948">
+        <prism:volume>2015</prism:volume>
+        <prism:number>22</prism:number>
+        <dc:title>European Journal of Inorganic Chemistry</dc:title>
+        <dc:identifier>ISSN 14341948</dc:identifier>
+        <dcterms:alternative>Eur. J. Inorg. Chem.</dcterms:alternative>
+        <dc:identifier>DOI 10.1002/ejic.201500257</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://hal.archives-ouvertes.fr/hal-01825133">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>96</prism:volume>
+                <dc:title>Physical Review E</dc:title>
+                <dc:identifier>DOI 10.1103/PhysRevE.96.023202</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tikhonchuk</foaf:surname>
+                        <foaf:givenName>V. T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bailly-Grandvaux</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Santos</foaf:surname>
+                        <foaf:givenName>J. J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Poyé</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://hal.archives-ouvertes.fr/hal-01825133</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>023202</bib:pages>
+        <dc:date>August 2017</dc:date>
+        <dcterms:dateSubmitted>2020-01-22 13:10:27</dcterms:dateSubmitted>
+        <z:libraryCatalog>HAL Archives Ouvertes</z:libraryCatalog>
+        <dcterms:abstract>Recent experiments are showing possibilities to generate strong magnetic fields on the excess of 500 T with high-energy nanosecond laser pulses in a compact setup of a capacitor connected to a single turn coil. Hot electrons ejected from the capacitor plate (cathode) are collected at the other plate (anode), thus providing the source of a current in the coil. However, the physical processes leading to generation of currents exceeding hundreds of kiloamperes in such a laser-driven diode are not sufficiently understood. Here we present a critical analysis of previous results and propose a self-consistent model for the high current generation in a laser-driven capacitor-coil assembly. It accounts for three major effects controlling the diode current: the space charge neutralization, the plasma magnetization between the capacitor plates, and the Ohmic heating of the external circuit—the coil-shaped connecting wire. The model provides the conditions necessary for transporting strongly super-Alfvenic currents through the diode on the time scale of a few nanoseconds. The model validity is confirmed by a comparison with the available experimental data.</dcterms:abstract>
+        <dc:title>Quasi-stationary magnetic elds generation with a laser-driven capacitor-coil assembly</dc:title>
+    </bib:Article>
+</rdf:RDF>
