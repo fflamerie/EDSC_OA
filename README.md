@@ -33,7 +33,7 @@ _Le quizz est conçu pour être utilisé avec des boîtiers réponse._
 * Focus sur les revues en libre accès - _gold open access_ : enjeux éditoriaux, économiques et juridiques
    * Enjeux éditoriaux : comment évaluer la qualité d’une revue en libre accès ? Quels sont les modèles éditoriaux des revues en libre accès ?
    * Enjeux économiques : comment identifier et comprendre les montants de frais de publication (APC), ainsi que les remises tarifaires applicables ?
- * Enjeux juridiques : comment choisir une licence de publication ?
+   * Enjeux juridiques : comment choisir une licence de publication ?
 * Focus sur les archives ouvertes - green open access : enjeux juridiques et techniques
    *	Enjeux juridiques : que peut-on/doit-on déposer dans une archive ouverte ?
    * Enjeux techniques : comment choisir l’archive ouverte dans laquelle déposer ses publications ? Comment tirer le meilleur parti des fonctionnalités complémentaires (listes de publication, etc.) ?
